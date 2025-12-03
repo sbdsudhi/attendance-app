@@ -1,0 +1,21 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv
+.venv*/
+.idea/
+.vscode/
+*.DS_Store
+
+# Don't track local CSV data from cloud (you usually recreate/backup)
+attendance_*.csv
+students_master_*.csv
+
+
+
+
+
+
+
